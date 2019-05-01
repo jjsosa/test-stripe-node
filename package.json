@@ -1,0 +1,22 @@
+{
+  "name": "test-stripe-node",
+  "version": "1.0.0",
+  "description": "App to test Stripe API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjsosa/test-stripe-node.git"
+  },
+  "keywords": [
+    "stripe"
+  ],
+  "author": "jjsosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjsosa/test-stripe-node/issues"
+  },
+  "homepage": "https://github.com/jjsosa/test-stripe-node#readme"
+}
